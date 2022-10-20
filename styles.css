@@ -1,0 +1,288 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+/*=============INFO-SPORT=============*/
+.header{
+    height: 665px;
+    width: 100%;
+    background-color: #F4F6F9;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+
+
+.info-sport{
+   padding-left: 10%;
+   width: 50%;
+}
+
+.football-png{
+    margin-top: 61px;
+}
+
+.just-for-you{
+    font-family: 'Lato';
+    font-weight: 700;
+    width: 100%;
+    font-size: 36px;
+    line-height: 48px;
+    color: #333333;
+    margin-top: 133px;
+}
+
+.tex-football{
+    font-family: 'Lato';
+    font-weight: 400;
+    width: 80%;
+    font-size: 18px;
+    font-style: 'Regular';
+    color: #4F4F4F;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.Logo{
+    margin-top: 50px;
+}
+
+.GooglePlay{
+    padding-left: 36px;
+}
+
+.Frame{
+    width: 50%;
+    
+
+}
+
+
+/*=============WHAT IT DOES=============*/
+
+.what-it-does{
+    width: 100%;
+    display: flex;
+    height: 592px;
+}
+.match-section-promo{
+    width: 55%;
+    background-image: linear-gradient(to left, #FFFFFF 2%, transparent 80%), url(./img/Rectangle\ \(1\).png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.match-promo{
+    position: relative;
+    width: 459px;
+    height: 317px;
+    margin: 10% 0 0 20%;
+    z-index: 1;
+}
+
+.promo-video{
+    position: absolute;
+    width: 360px;
+    height: 218.06px;
+    top: 290px;
+    left: 265px;
+}
+
+
+
+
+
+
+
+.box-tex-what-it-does{
+    width: 31%;
+    padding-top: 13%;
+    flex-direction: column;
+    padding-left: 3%;
+    
+    
+    
+
+    
+}
+
+.ITDOES{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Lato";
+    Line-height: 21.12px;
+    color: #00ADEE;
+    font-style: 'Bolt';
+    padding-bottom: 27px;
+}
+
+
+.Football-Experience{
+font-size: 28px;
+font-weight: 700;
+line-height: 37px;
+font-style: 'Bolt';
+padding-bottom: 27px;
+}
+
+
+.Guardian-Live{
+    color: #4F4F4F;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Lato";
+    font-style: "Bolt";
+    line-height: 1.5;
+}
+
+
+.Guardian-Live-AS{
+    color: #4F4F4F;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Lato";
+    font-style: "Bolt";
+    line-height: 1.5;
+}
+
+
+.Learn-more{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    Line-height: 21.12px;
+    color: #00ADEE;
+    font-style: 'Bolt';
+    padding-top: 22px;
+    text-decoration: none;
+
+}
+
+
+
+/*=============GET STARTED=============*/
+.Get-Starded{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+.tex-box{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+
+
+.getstarted{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    font-style: 'Bold';
+    line-height: 21px;
+    color: #00ADEE;
+    padding-bottom: 27px;
+    padding-top: 217px;
+}
+
+.User{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    font-style: 'Bold';
+    padding-top: 27px;
+}
+
+
+.Premiere{
+    width: 80%;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    font-style: 'Regular';
+    color: #4F4F4F;
+    line-height: 23px;
+    padding-top: 27px;
+}
+
+
+.btn-Learn{
+    color: #00ADEE;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 54px;
+
+}
+
+
+.png-photo {
+    position:relative;
+    width : 50%;
+    height : 50%;
+    margin : 0 auto;
+    border-radius: 50%;
+    border: 2px dashed #00ADEE;
+  }
+  .png-photo:before {
+    position :absolute;
+      width: 60%;
+      height: 60%;
+    border-radius: 50%;
+    border: 2px dashed #00ADEE;
+      content: "";
+      padding-left: 10%;
+      padding-top: 10%;
+      margin-left: 100px;
+      margin-top: 100px;
+  }
+
+  .png-photo::after {
+    position :relative;
+      width: 25%;
+      height: 25%;
+    left: 5px;
+    top: 5px;
+    color:rgb(47, 255, 0);
+    border-radius: 50%;
+      
+      background-image: url(./img/Ellipse.png) url(./img/Group\ 7.1.png);
+
+  }
+
+
+
+.Group-7{
+position: relative;
+margin-left: 20%;
+margin-top: 10%;
+  
+   
+}
+
+
+.Group-696{
+    position: absolute;
+    
+}
+
+
+.Group-694{
+    position: absolute;
+}
+
+
+.Group-694{
+    position: absolute;
+}
+
+
+.Group-694-2{
+    position: absolute;
+}
