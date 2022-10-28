@@ -87,10 +87,11 @@ body{
 }
 
 .match-promo{
-    position: relative;
+    position: absolute;
     width: 459px;
     height: 317px;
-    margin: 10% 0 0 20%;
+    left: 15%;
+    top: 12%;
     z-index: 1;
 }
 
@@ -98,8 +99,8 @@ body{
     position: absolute;
     width: 360px;
     height: 218.06px;
-    top: 290px;
-    left: 265px;
+    right:15%;
+    bottom:12%;
 }
 
 
