@@ -179,10 +179,9 @@
     }
 
 
-
     
     .group-6970{
-        float: right;
+        flex-direction: column;
         background-image: url(./img/Group\ 697.1.png);
     }
 }
