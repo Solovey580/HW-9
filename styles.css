@@ -226,9 +226,7 @@ padding-bottom: 27px;
 
 }
 
-.group-6970{
-   
-}
+
 .Group-697-1-png{
     display: none;
 }
@@ -359,9 +357,32 @@ padding-bottom: 27px;
 
 
 .partners-logo{
-    display:inline-flex;
-    gap: 80px;
-    height: 48px;
+    width: 1081px;
+    height: 58px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sponsor-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 335px;
+}
+
+.sponsor-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 383px;
+}
+
+
+.sponsor-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 210px;
 }
 
 
@@ -399,6 +420,23 @@ padding-bottom: 27px;
 .app-store{
     margin-right: 2.25rem;
 }
+
+
+.frame0-2-1{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
